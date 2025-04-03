@@ -1,0 +1,29 @@
+body {
+    background:rgb(158, 130, 93); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 13px; 
+    height: 100vh; 
+}
+p {
+    line-height: 1.2; 
+    color: #000000
+
+}
+h1 {
+    line-height: 0.2; 
+    color: #000000
+
+}
+.ilustração1{
+    width: 540px;  
+    height: auto;  
+}
+.charge {
+    width: 780x;  
+    height: 780px;  
+}
+.chargee {
+    text-align: center;  
+}
